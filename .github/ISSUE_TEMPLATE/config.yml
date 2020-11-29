@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Need Help?
+    url: https://www.github.com/BOXEL-REBOUND/help
+    about: Please file an issue in the help repo
+  - name: 🌍 Found a problem with the olejs.org beyond the API reference docs?
+    url: https://www.github.com/BOXEL-REBOUND/olejs.org/issues/new/choose
+    about: Please file an issue in the Ole.js website repo
